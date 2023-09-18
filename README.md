@@ -2,3 +2,4 @@
 kralia
 cipa
 lokki
+tor
