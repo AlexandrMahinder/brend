@@ -1,1 +1,4 @@
 # brend
+kralia
+cipa
+lokki
