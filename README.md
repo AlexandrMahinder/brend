@@ -3,4 +3,4 @@ kralia
 cipa
 lokki
 tor
-cratos and boy
+cratos and a head
